@@ -1,0 +1,1 @@
+# monapp-docker-azure
